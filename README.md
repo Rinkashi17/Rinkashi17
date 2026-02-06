@@ -1,10 +1,16 @@
-<br clear="both">
-
-<img align="right" height="200" src="https://pbs.twimg.com/profile_images/863908518843297792/WMyibCKY_400x400.jpg"  />
+<h2 align="left">Hello there, eu sou o Marcos! 👋</h2>
 
 ###
 
-<h2 align="left">Hello there, eu sou o Marcos! 👋</h2>
+<p align="left">🛠️ Criando o futuro, um commit por vez. Front-End Developer | Transformando designs complexos em experiências interativas e funcionais.</p>
+
+###
+
+<p align="left">📖 Foco atual:  Estudos em React.js, Typescript e Vue.js</p>
+
+###
+
+<p align="left">📫 Como me encontrar: <a href="https://www.linkedin.com/in/rinkashi17">LinkedIn</a></p>
 
 ###
 
